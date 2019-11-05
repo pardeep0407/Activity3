@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.particle:cloudsdk:0.5.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25ec31235900788b82653cb263ed8b1e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25ec31235900788b82653cb263ed8b1e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25ec31235900788b82653cb263ed8b1e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.particle/cloudsdk/0.5.1/852735f3d50472571ffea44350d80ba3e699358c/cloudsdk-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
